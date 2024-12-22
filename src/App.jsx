@@ -2,7 +2,7 @@ import "./App.css";
 
 //configuração do raact router
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import Navbar from "./Components/NavBar";
+import Navbar from "./Components/Navbar";
 
 // Pages
 import Home from "./Pages/Home";
